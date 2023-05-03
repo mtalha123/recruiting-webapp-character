@@ -44,3 +44,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.char-sheet-container {
+  border: 6px solid white;
+  margin-top: 100px;
+}
+
+.skillcheck-container {
+  width: 90%;
+  border: 2px solid white;
+  margin: 0 auto;
+}
+
+.attributes-container {
+  border: 2px solid white;
+}
